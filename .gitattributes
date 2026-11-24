@@ -1,0 +1,13 @@
+*.onnx binary
+*.wasm binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.svg text
+*.html text
+*.css text
+*.js text
+*.mjs text
+*.py text
+*.md text
+*.json text
